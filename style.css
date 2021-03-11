@@ -1,0 +1,84 @@
+.cicada{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    border-radius: 100px;
+    width: 600px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    padding : 10px;
+    margin : 10px;
+}
+
+.chameleon{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    border-radius: 100px;
+    width: 600px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    padding : 10px;
+    margin : 10px;
+}
+
+.teddy{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    border-radius: 100px;
+    width: 600px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    padding : 20px;
+    margin : 20px;
+}
+
+.pigeon{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    border-radius: 100px;
+    width: 600px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    padding : 10px;
+    margin : 10px;
+}
+
+.camel{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    border-radius: 100px;
+    width: 600px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    padding : 10px;
+    margin : 10px;
+}
+
+.panda{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    border-radius: 100px;
+    width: 600px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    padding : 10px;
+    margin : 10px;
+    
+}
